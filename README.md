@@ -16,9 +16,7 @@
 ![Buy Stocks](https://img.shields.io/badge/Buy-Stocks-success?style=for-the-badge)
 ![Sell Stocks](https://img.shields.io/badge/Sell-Stocks-red?style=for-the-badge)
 ![Portfolio](https://img.shields.io/badge/Portfolio-Management-blue?style=for-the-badge)
-![Profit & Loss](https://img.shields.io/badge/Profit%20%26%20Loss-Tracking-green?style=for-the-badge)
 ![Transactions](https://img.shields.io/badge/Transaction-History-orange?style=for-the-badge)
-![Authentication](https://img.shields.io/badge/User-Authentication-purple?style=for-the-badge)
 ![REST API](https://img.shields.io/badge/REST-API-02569B?style=for-the-badge)
 ![CRUD](https://img.shields.io/badge/CRUD-Operations-yellow?style=for-the-badge)
 
